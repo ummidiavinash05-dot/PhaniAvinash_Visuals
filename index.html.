@@ -183,8 +183,8 @@
   <video 
     class="portfolio-video w-full h-full object-cover" 
     playsinline 
-    preload="metadata">
-    <source src="./videos/monthly-expense.mp4" type="video/mp4">
+    preload="auto">
+    <source src="C:\Users\ummid\OneDrive\Desktop\portfolio\videos\Monthly Expense 4k.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 
@@ -194,7 +194,7 @@
     aria-label="Play video"
     class="play-trigger absolute inset-0 w-full h-full flex items-center justify-center bg-black/5 hover:bg-black/20 transition-all z-20 cursor-pointer">
     <span class="w-14 h-14 rounded-full bg-black/40 backdrop-blur-md border border-white/20 text-white flex items-center justify-center shadow-lg transition-transform duration-200 group-hover:scale-110 active:scale-95">
-      <svg class="w-6 h-6 fill-current translate-x-0.5" viewBox="0 0 24 24">
+      <svg class="w-8 h-8 fill-current translate-x-0.5" viewBox="0 0 27 24">
         <path d="M8 5v14l11-7z"/>
       </svg>
     </span>
@@ -213,6 +213,9 @@
 </section>
 
     <section id="work" class="mt-24">
+      <style>#work {
+  scroll-margin-top: 100px;
+}</style>
 
       <div class="relative flex items-center justify-between mb-8">
         <div class="h-[1px] flex-1 bg-gradient-to-r from-transparent via-neutral-500 to-transparent"></div>
@@ -242,8 +245,8 @@
   <video 
     class="portfolio-video w-full h-full object-cover" 
     playsinline 
-    preload="metadata">
-    <source src="./videos/mr-beast.mp4" type="video/mp4">
+    preload="auto">
+    <source src="C:\Users\ummid\OneDrive\Desktop\portfolio\videos\Mr.Beast.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 
@@ -253,7 +256,7 @@
     aria-label="Play video"
     class="play-trigger absolute inset-0 w-full h-full flex items-center justify-center bg-black/5 hover:bg-black/20 transition-all z-20 cursor-pointer">
     <span class="w-14 h-14 rounded-full bg-black/40 backdrop-blur-md border border-white/20 text-white flex items-center justify-center shadow-lg transition-transform duration-200 group-hover:scale-110 active:scale-95">
-      <svg class="w-6 h-6 fill-current translate-x-0.5" viewBox="0 0 24 24">
+      <svg class="w-8 h-8 fill-current translate-x-0.5" viewBox="0 0 27 24">
         <path d="M8 5v14l11-7z"/>
       </svg>
     </span>
@@ -272,8 +275,8 @@
   <video 
     class="portfolio-video w-full h-full object-cover" 
     playsinline 
-    preload="metadata">
-    <source src="./videos/chia-seeds.mp4" type="video/mp4">
+    preload="auto">
+    <source src="C:\Users\ummid\OneDrive\Desktop\portfolio\videos\Chia Seeds_2.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 
@@ -283,7 +286,7 @@
     aria-label="Play video"
     class="play-trigger absolute inset-0 w-full h-full flex items-center justify-center bg-black/5 hover:bg-black/20 transition-all z-20 cursor-pointer">
     <span class="w-14 h-14 rounded-full bg-black/40 backdrop-blur-md border border-white/20 text-white flex items-center justify-center shadow-lg transition-transform duration-200 group-hover:scale-110 active:scale-95">
-      <svg class="w-6 h-6 fill-current translate-x-0.5" viewBox="0 0 24 24">
+      <svg class="w-8 h-8 fill-current translate-x-0.5" viewBox="0 0 27 24">
         <path d="M8 5v14l11-7z"/>
       </svg>
     </span>
@@ -302,8 +305,8 @@
   <video 
     class="portfolio-video w-full h-full object-cover" 
     playsinline 
-    preload="metadata">
-    <source src="./videos/vk-with-niharika.mp4" type="video/mp4">
+    preload="auto">
+    <source src="C:\Users\ummid\OneDrive\Desktop\portfolio\videos\VK with Niharika_1.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 
@@ -313,7 +316,7 @@
     aria-label="Play video"
     class="play-trigger absolute inset-0 w-full h-full flex items-center justify-center bg-black/5 hover:bg-black/20 transition-all z-20 cursor-pointer">
     <span class="w-14 h-14 rounded-full bg-black/40 backdrop-blur-md border border-white/20 text-white flex items-center justify-center shadow-lg transition-transform duration-200 group-hover:scale-110 active:scale-95">
-      <svg class="w-6 h-6 fill-current translate-x-0.5" viewBox="0 0 24 24">
+      <svg class="w-8 h-8 fill-current translate-x-0.5" viewBox="0 0 27 24">
         <path d="M8 5v14l11-7z"/>
       </svg>
     </span>
@@ -329,11 +332,12 @@
         <div class="light-glass rounded-2xl p-3.5 group">
                      <!-- Video Container -->
 <div class="video-card relative aspect-[9/16] rounded-xl overflow-hidden bg-neutral-100 border border-neutral-200/60 shadow-inner">
+  
   <video 
     class="portfolio-video w-full h-full object-cover" 
     playsinline 
-    preload="metadata">
-    <source src="c:\Users\ummid\OneDrive\Desktop\best videos\Teju-1.mp4" type="video/mp4">
+    preload="auto">
+    <source src="C:\Users\ummid\OneDrive\Desktop\portfolio\videos\Teju-1.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 
@@ -343,7 +347,7 @@
     aria-label="Play video"
     class="play-trigger absolute inset-0 w-full h-full flex items-center justify-center bg-black/5 hover:bg-black/20 transition-all z-20 cursor-pointer">
     <span class="w-14 h-14 rounded-full bg-black/40 backdrop-blur-md border border-white/20 text-white flex items-center justify-center shadow-lg transition-transform duration-200 group-hover:scale-110 active:scale-95">
-      <svg class="w-6 h-6 fill-current translate-x-0.5" viewBox="0 0 24 24">
+      <svg class="w-8 h-8 fill-current translate-x-0.5" viewBox="0 0 27 24">
         <path d="M8 5v14l11-7z"/>
       </svg>
     </span>
@@ -362,8 +366,8 @@
   <video 
     class="portfolio-video w-full h-full object-cover" 
     playsinline 
-    preload="metadata">
-    <source src="./videos/luke.mp4" type="video/mp4">
+    preload="auto">
+    <source src="C:\Users\ummid\OneDrive\Desktop\portfolio\videos\luke.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 
@@ -373,7 +377,7 @@
     aria-label="Play video"
     class="play-trigger absolute inset-0 w-full h-full flex items-center justify-center bg-black/5 hover:bg-black/20 transition-all z-20 cursor-pointer">
     <span class="w-14 h-14 rounded-full bg-black/40 backdrop-blur-md border border-white/20 text-white flex items-center justify-center shadow-lg transition-transform duration-200 group-hover:scale-110 active:scale-95">
-      <svg class="w-6 h-6 fill-current translate-x-0.5" viewBox="0 0 24 24">
+      <svg class="w-8 h-8 fill-current translate-x-0.5" viewBox="0 0 27 24">
         <path d="M8 5v14l11-7z"/>
       </svg>
     </span>
@@ -392,8 +396,8 @@
   <video 
     class="portfolio-video w-full h-full object-cover" 
     playsinline 
-    preload="metadata">
-    <source src="./videos/teju-3.mp4" type="video/mp4">
+    preload="auto">
+    <source src="C:\Users\ummid\OneDrive\Desktop\portfolio\videos\Teju-3.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 
@@ -403,7 +407,7 @@
     aria-label="Play video"
     class="play-trigger absolute inset-0 w-full h-full flex items-center justify-center bg-black/5 hover:bg-black/20 transition-all z-20 cursor-pointer">
     <span class="w-14 h-14 rounded-full bg-black/40 backdrop-blur-md border border-white/20 text-white flex items-center justify-center shadow-lg transition-transform duration-200 group-hover:scale-110 active:scale-95">
-      <svg class="w-6 h-6 fill-current translate-x-0.5" viewBox="0 0 24 24">
+      <svg class="w-8 h-8 fill-current translate-x-0.5" viewBox="0 0 27 24">
         <path d="M8 5v14l11-7z"/>
       </svg>
     </span>
@@ -419,7 +423,10 @@
     </section>
     
     <!-- About Me Section -->
-<section id="aboutme" class="mt-24">
+<section id="aboutme"  class="mt-24">
+  <style>#aboutme {
+  scroll-margin-top: 100px;
+}</style>
 
   <div class="relative flex items-center justify-between mb-8">
         <div class="h-[1px] flex-1 bg-gradient-to-r from-transparent via-neutral-500 to-transparent"></div>
@@ -562,7 +569,7 @@
 
       <!-- Instagram Card -->
       <a 
-        href="https://instagram.com/avinash_ummidi_05" 
+        href="https://instagram.com/phani_avinash_05" 
         target="_blank"
         class="group relative flex items-center gap-4 p-4 rounded-2xl bg-white border border-neutral-200/80 shadow-sm hover:border-[#800020]/40 hover:shadow-md hover:-translate-y-1 transition-all duration-300"
       >
@@ -576,7 +583,7 @@
         </div>
         <div class="flex-1 min-w-0">
           <p class="text-[11px] font-mono uppercase tracking-wider text-neutral-400">Instagram</p>
-          <p class="text-xs sm:text-sm font-bold text-neutral-800 truncate">@avinash_ummidi_05</p>
+          <p class="text-xs sm:text-sm font-bold text-neutral-800 truncate">@phani_avinash_05</p>
         </div>
         <span class="text-neutral-400 group-hover:text-neutral-900 group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-all text-sm font-bold">↗</span>
       </a>
